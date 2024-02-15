@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1>Hi, I'm Rose! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://https://www.linkedin.com/in/rose-noni-18b009269//">Devops Engineer and Project Management Professional
+<h2>👨‍💻 Devops Projects:</h2>
 
-<!--
-**roseprimeyn/roseprimeyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b> Webstack Implementation (AlgoExpert)</b>
+  - LAMP: Web Stack Implementation
+  - LEMP: Web Stack Implementation
+  - MERN: Web Stack Implementation
+  - MEAN: Web Stack Implementation
+- <b>Client Server Architecture Using A MySQL Relational Database Management System</b>
+  - Client Server Architecture Using A MySQL Relational Database Management System 
+- <b>Web Solution With WordPress using Ubuntu Server </b>
+  - Web Solution With WordPress using Ubuntu Server
+  - Linux  Administration–  NFS, LVM, PHP, Apache
+  - Load Balancer Solution With Apache
+  - Tooling Website Deployment Automation with Jenkins
+  - AWS Cloud Solution For 2 Company Websites Using A Reverse Proxy Technology
+  - Automate Infrastructure With IAC using Terraform
+    
+- <b>Python</b>
+  - 
 
-Here are some ideas to get you started:
+<h2>📺 Popular YouTube Videos</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+ 
+[linkedin]: https://www.linkedin.com/in/rose-noni-18b009269/
+
