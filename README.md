@@ -1,4 +1,4 @@
-My name is Rose👋
+My name is [Rose](https://www.linkedin.com/in/rose-noni-18b009269/)👋
 
 Brief intro about me:
 
