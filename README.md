@@ -17,6 +17,5 @@ I love automation, coding, problem-solving, learning new skills, and implementin
 
 📝 I regularly write articles on https://medium.com/@primeyn113
 
-Connect with me: https://www.linkedin.com/in/rose-noni-18b009269/
 
 
