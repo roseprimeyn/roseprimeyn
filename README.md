@@ -1,4 +1,4 @@
-My name isRose👋
+My name is Rose👋
 
 Brief intro about me:
 
